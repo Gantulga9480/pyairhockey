@@ -1,0 +1,8 @@
+*.pyd
+*.pyc
+test.py
+.vscode
+build
+*.c
+*.html
+*.h
